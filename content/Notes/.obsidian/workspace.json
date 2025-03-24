@@ -20,15 +20,9 @@
               "icon": "lucide-file",
               "title": "Android"
             }
-          }
-        ]
-      },
-      {
-        "id": "9a379cc2f49b58db",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b18c369f1bc3a138",
+            "id": "da13ebb03225d2a2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -37,7 +31,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,9 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05f81092f297844b",
+  "active": "da13ebb03225d2a2",
   "lastOpenFiles": [
     "Android.md",
+    "pokemon.md",
     "index.md",
     "Welcome.md"
   ]
