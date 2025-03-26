@@ -1,5 +1,4 @@
 [[Android]]
-
 lauch mode
 there are 4 ways to open an activity 
 1. standard

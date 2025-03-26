@@ -1,7 +1,7 @@
+[[Android]]
 
-hi
-pokemoin
-is so beautiful what u think 
+
+
 Android uses **_DVM_** (Dalvik Virtual Machine ) rather using JVM(Java Virtual Machine).
 
 ## Steps in build process 

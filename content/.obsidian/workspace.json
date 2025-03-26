@@ -1,25 +1,25 @@
 {
   "main": {
-    "id": "8a4198f34f89903a",
+    "id": "0066bc3cd4e2a1dd",
     "type": "split",
     "children": [
       {
-        "id": "18b5703e46bc3843",
+        "id": "7b99bd0f8b57a5c3",
         "type": "tabs",
         "children": [
           {
-            "id": "2af13d5f5e447a1a",
+            "id": "7363ac892b25cbb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/binding.md",
+                "file": "android/Android.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "binding"
+              "title": "Android"
             }
           }
         ]
@@ -28,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0449ad8f4207577f",
+    "id": "ae2553408054e7fd",
     "type": "split",
     "children": [
       {
-        "id": "530a8d7fd1d1cd29",
+        "id": "6a656978685c5cbd",
         "type": "tabs",
         "children": [
           {
-            "id": "8c56ee7d6bbab3fb",
+            "id": "39b76b4d5a40c66e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "8a3082bf8ea951b0",
+            "id": "ae430d7e80937c6c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "97ac615a9e67b2a6",
+            "id": "e536bd7cc347810d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "74ef8cddca5b2166",
+    "id": "4e13f7c7722dd12a",
     "type": "split",
     "children": [
       {
-        "id": "da60af95f86066c6",
+        "id": "f9bb5ea2796eb123",
         "type": "tabs",
         "children": [
           {
-            "id": "d31d4e406785feb2",
+            "id": "258d803c73d41a06",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/Android.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Android"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "e2f86c7b6eb9b2aa",
+            "id": "a5066c3fe37a9761",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/Android.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Android"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "f611bf6083c6ff8d",
+            "id": "a46324b2a8e85707",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,15 +133,13 @@
             }
           },
           {
-            "id": "eee2c0bc6cae1ca6",
+            "id": "9e5e95f8000bbe53",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "android/Android.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Android"
+              "title": "Outline"
             }
           }
         ]
@@ -163,18 +159,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2af13d5f5e447a1a",
+  "active": "7363ac892b25cbb4",
   "lastOpenFiles": [
-    "android/Android.md",
-    "android/Canvas.md",
-    "android/binding.md",
-    "android/api call.md",
-    "android/Annotation.md",
-    "android/Activity.md",
-    "index.md",
     "android/activity thread.md",
-    "r/Research.md",
+    "android/Android.md",
+    "android/Activity.md",
+    "flutter/e.md",
+    "flutter/Flutter.md",
+    "Security/Encription.md",
+    "Security/Sha.md",
+    "Security/KDF.md",
+    "Security",
+    "dsa/dsa.md",
+    "dsa/Trie (retrieval tree).md",
+    "dsa/tree.md",
+    "dsa/stack.md",
+    "dsa/Qeue.md",
+    "dsa/Graph.md",
+    "r/Steel.md",
+    "r/oil pulling.md",
+    "r/Moon.md",
+    "r/Govt of india earning sources.md",
+    "r/Engine.md",
     "r/Bitcoin.md",
-    "Security/Encription.md"
+    "r/Research.md",
+    "image/Pasted image 20241009105051.png",
+    "image/Pasted image 20241009105006.png",
+    "r",
+    "New folder",
+    "dsa",
+    "android/propagate data.md",
+    "android/navigation and sharing data.md",
+    "android/Programming.md",
+    "android/zygote.md",
+    "android/work manager.md",
+    "android",
+    "company",
+    "flutter",
+    "Flutter",
+    "Android",
+    "image/Pasted image 20241017231857.png",
+    "Company"
   ]
 }
