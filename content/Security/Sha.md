@@ -1,2 +1,0 @@
-[[Encription]]
-Secured hash algorithm
