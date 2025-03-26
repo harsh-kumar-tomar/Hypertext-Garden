@@ -1,4 +1,4 @@
-[[Encription]]
+#Encription
 Key derivative function
 
 There are mainly four parameters :
