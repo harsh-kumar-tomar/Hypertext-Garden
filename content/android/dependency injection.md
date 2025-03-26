@@ -1,4 +1,4 @@
-[[Programming]] 
+[[android/Programming]] 
 
 https://github.com/Digitaler-Impfnachweis/covpass-android#dependency-injection
 Manual Dependency Injection means providing dependencies (such as database instances, network clients, etc.) to a class manually, without using DI frameworks like Dagger or Hilt.
