@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/LRU Cache.md",
+                "file": "r/Cloud.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LRU Cache"
+              "title": "Cloud"
             }
           },
           {
@@ -192,15 +192,20 @@
   },
   "active": "257c1b3d8cb918ee",
   "lastOpenFiles": [
-    "Programming/Internal DSL.md",
+    "r/Bitcoin.md",
+    "r/Cloud.md",
     "Programming/LRU Cache.md",
+    "r/Untitled",
+    "kimi.py",
+    "Programming/Programming.md",
+    "Programming/Internal DSL.md",
+    "resume.pdf",
     "Programming/External DSL.md",
     "flutter/Flutter.md",
     "Programming/DSL.md",
     "Programming/Compiler.md",
     "Programming/Interpreter.md",
     "Programming/Kotlin.md",
-    "Programming/Programming.md",
     "Programming",
     "dsa/Graph/Topological Sort.md",
     "dsa/Graph/Djistra Algorithm.md",
@@ -219,17 +224,12 @@
     "Security",
     "dsa/dsa.md",
     "dsa/Trie (retrieval tree).md",
-    "dsa/tree.md",
-    "dsa/stack.md",
     "image/Pasted image 20241009105051.png",
     "image/Pasted image 20241009105006.png",
     "r",
     "New folder",
     "dsa",
     "android",
-    "company",
-    "flutter",
-    "Flutter",
     "image/Pasted image 20241017231857.png"
   ]
 }
