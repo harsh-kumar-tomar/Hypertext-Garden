@@ -190,16 +190,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "257c1b3d8cb918ee",
+  "active": "39b76b4d5a40c66e",
   "lastOpenFiles": [
-    "r/Bitcoin.md",
+    "Hashing",
+    "resume.pdf",
     "r/Cloud.md",
+    "r/Bitcoin.md",
     "Programming/LRU Cache.md",
     "r/Untitled",
     "kimi.py",
     "Programming/Programming.md",
     "Programming/Internal DSL.md",
-    "resume.pdf",
     "Programming/External DSL.md",
     "flutter/Flutter.md",
     "Programming/DSL.md",
@@ -223,7 +224,6 @@
     "Security/Sha.md",
     "Security",
     "dsa/dsa.md",
-    "dsa/Trie (retrieval tree).md",
     "image/Pasted image 20241009105051.png",
     "image/Pasted image 20241009105006.png",
     "r",
