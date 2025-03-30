@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "r/Cloud.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud"
+              "title": "index"
             }
           },
           {
@@ -190,11 +190,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39b76b4d5a40c66e",
+  "active": "257c1b3d8cb918ee",
   "lastOpenFiles": [
+    "r/Cloud.md",
     "Hashing",
     "resume.pdf",
-    "r/Cloud.md",
     "r/Bitcoin.md",
     "Programming/LRU Cache.md",
     "r/Untitled",
@@ -229,7 +229,6 @@
     "r",
     "New folder",
     "dsa",
-    "android",
     "image/Pasted image 20241017231857.png"
   ]
 }
