@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Food/Omega 3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Omega 3"
             }
           },
           {
@@ -192,6 +192,10 @@
   },
   "active": "257c1b3d8cb918ee",
   "lastOpenFiles": [
+    "Food/Chia Seed.md",
+    "Food/Omega 3.md",
+    "index.md",
+    "Food",
     "r/Cloud.md",
     "Hashing",
     "resume.pdf",
@@ -210,7 +214,6 @@
     "Programming",
     "dsa/Graph/Topological Sort.md",
     "dsa/Graph/Djistra Algorithm.md",
-    "index.md",
     "About Me.md",
     "dsa/Graph.md",
     "dsa/Graph/Graph.md",
@@ -223,12 +226,10 @@
     "Security/Encription.md",
     "Security/Sha.md",
     "Security",
-    "dsa/dsa.md",
     "image/Pasted image 20241009105051.png",
     "image/Pasted image 20241009105006.png",
     "r",
     "New folder",
-    "dsa",
     "image/Pasted image 20241017231857.png"
   ]
 }
