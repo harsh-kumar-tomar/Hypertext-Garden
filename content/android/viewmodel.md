@@ -137,11 +137,15 @@ The **simplest** and most common way to create a ViewModel.
 
 ### **In Activity**
 
-`val viewModel = ViewModelProvider(this)[MyViewModel::class.java]`
+```kotlin
+val viewModel = ViewModelProvider(this)[MyViewModel::class.java]
+```
 
 ### **In Fragment**
 
-`val viewModel = ViewModelProvider(this)[MyViewModel::class.java]`
+```kotlin
+val viewModel = ViewModelProvider(this)[MyViewModel::class.java]
+```
 
 ✅ **Pros:** Simple, works in most cases.  
 ❌ **Cons:** Not suitable for sharing data between fragments.
