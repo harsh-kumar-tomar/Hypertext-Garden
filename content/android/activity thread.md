@@ -1,6 +1,5 @@
-[[Android]]
 
-**ActivityThread** Android framework ka ek **main component** hai jo ek app ka **main UI thread** control karta hai. Har ek Android app ek **separate process** me chalta hai aur uske andar ek **ActivityThread** hota hai jo us process ka **main execution loop** handle karta hai
+**ActivityThread** [[Android]] framework ka ek **main component** hai jo ek app ka **main UI thread** control karta hai. Har ek Android app ek **separate process** me chalta hai aur uske andar ek **ActivityThread** hota hai jo us process ka **main execution loop** handle karta hai
 
 ## **Role of ActivityThread**
 

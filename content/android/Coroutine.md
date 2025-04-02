@@ -1,4 +1,4 @@
-[[android/Kotlin]] [[Android]]
+[[Programming/Kotlin|Kotlin]] [[Android]]
 
 Coroutine Scope is like time period of that code . So basically it defines the lifecycle of code . 
 It is like a thread to run code concurrently with the rest of the code . 
@@ -6,9 +6,7 @@ Scopes
 
 
 Coroutine Scope (Custom )
-```koltin
-print("n:)
-```
+
 viewmodelScope : code lifecycle is tied to viewmodel lifecycle
 lifecycleScope : code lifecycle is tied to lifecycle of fragment or activity
 GlobalScope : code lifecycle is tied to lifecycle of application . Quite dangerous 
@@ -26,9 +24,6 @@ lauch : normal just run the code
 asyc : when i want to control when to stop the code or coroutine 
 
 fact
-
-![[golmaal-mukesh-tiwari-vasooli.gif]]
-
 ## withContext
 
 it is suspending  fuction used to switch temporary to the main thread , so if coroutine is doing some task in the background thread and want to set data to mainthread or UI it can use with context . 

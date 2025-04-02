@@ -1,6 +1,4 @@
-[[Android]]
-
-Canvas is a powerful drawing tool in Android that allows developers to create custom graphics, render text, and draw shapes directly onto a `View` or `Bitmap`. It is a part of the `android.graphics` package and is widely used for custom view implementations, game development, and complex UI rendering.
+Canvas is a powerful drawing tool in [[Android]] that allows developers to create custom graphics, render text, and draw shapes directly onto a `View` or `Bitmap`. It is a part of the `android.graphics` package and is widely used for custom view implementations, game development, and complex UI rendering.
 
 ## Imp Classes
 
