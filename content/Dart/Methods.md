@@ -1,6 +1,6 @@
 [[Dart]]
 
-```
+```dart
 int.parse(num)
 num.toInt()
 num.toString()
@@ -13,7 +13,7 @@ num is int
 
 To find bugs
 it will print message if condition is false 
-```
+```dart
 assert(condition)
 or 
 assert(condition,message)

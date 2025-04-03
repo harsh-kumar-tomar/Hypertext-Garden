@@ -1,9 +1,7 @@
-## How Parameter work in [[Function]] ?
+### How Parameters work in [[Function]] ?
 
 
 we must pass parameter in same order .
-
-
 ## 1. Positional Argument
 
 ```dart

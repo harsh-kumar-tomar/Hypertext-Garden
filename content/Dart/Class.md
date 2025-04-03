@@ -168,6 +168,7 @@ void main() {
 
 ## constant constructor 
 
+A const constructor  is used to create immutable objects (objects whose fields cannot change after initialization). It ensures that if two const objects have the same values, they reuse the same memory location (canonicalization), which helps in optimizing performance.
 it improves performance
 
 imp
@@ -199,4 +200,50 @@ void main() {
   print("The p4 hash code is: ${p4.hashCode}");
 }
 ```
+
+
+Getter / Setter 
+
+```dart
+class Person {
+  // Properties
+  String? firstName;
+  String? lastName;
+
+  Person(this.firstName, this.lastName);
+
+  // Getter
+  String get fullName => "$firstName $lastName";
+}
+
+void main() {
+  Person p = Person("John", "Doe");
+  print(p.fullName);
+}
+```
+
+```dart
+class NoteBook {
+  // Private properties
+  String? _name;
+  double? _prize;
+
+  // Setter to update the value of name property
+  set name(String name) => _name = name;
+
+  // Setter to update the value of price property
+  set price(double price) {
+    if (price < 0) {
+      throw Exception("Price cannot be less than 0");
+    }
+    this._prize = price;
+  }
+
+  void display() {
+    print("Name: $_name");
+    print("Price: $_prize");
+  }
+}
+```
+
 
