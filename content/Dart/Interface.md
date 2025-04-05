@@ -1,7 +1,7 @@
 
 every [[Class]] and [[Abstract]] class is interface by default 
 
-so once we use implements we must override all methods of that class . we usually use abstract class , instead of concrete class to decelare interface
+so once we use implements we must override all methods of that class . we usually use abstract class , instead of concrete class to declare interface
 
 ```dart
 class InterfaceName {
