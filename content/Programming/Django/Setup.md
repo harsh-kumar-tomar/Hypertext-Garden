@@ -45,3 +45,12 @@ python manage.py runserver
 
 
 
+```python
+# it is necessary to be at project level to run this command
+# as manage.py is only available inside the project_name folder
+python manage.py startapp app_name 
+
+# create urls.py inside app_name
+
+
+```
