@@ -44,13 +44,11 @@ python manage.py runserver
 ```
 
 
+```python
+python manage.py migrate
+```
 
 ```python
-# it is necessary to be at project level to run this command
-# as manage.py is only available inside the project_name folder
-python manage.py startapp app_name 
-
-# create urls.py inside app_name
-
-
+# when we create django project it create a sqlite db with name 
+db.sqlite3
 ```

@@ -19,7 +19,20 @@ def function1(request):
 
 # if mulitple functions are declared with same name 
 # than the later one will be executed
+
+# diff ways to show content
+
 def function1(request):
     return HttpResponse("hiiii")
+
+def function2(request):
+    return render(request,'team_members/home.html')
+
+def function3(request):
+    return render(request,'home.html')
+
+def functio4(request):
+	template = loader.get_template('myfirst.html')
+	return HttpResponse(template.render())
 ```
 
