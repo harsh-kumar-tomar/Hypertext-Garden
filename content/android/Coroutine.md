@@ -1,4 +1,4 @@
-[[Programming/Kotlin|Kotlin]] [[Android]]
+[[computer/Kotlin|Kotlin]] [[Android]]
 
 Coroutine Scope is like time period of that code . So basically it defines the lifecycle of code . 
 It is like a thread to run code concurrently with the rest of the code . 
