@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "india - china dispute.md",
+                "file": "tibet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "india - china dispute"
+              "title": "tibet"
             }
           },
           {
@@ -37,8 +37,7 @@
               "title": "Template"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,8 +174,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d2e318dc7333517",
+  "active": "7ed7bf810632b7a2",
   "lastOpenFiles": [
+    "india - pakistan dispute.md",
+    "india - china dispute.md",
+    "image/Pasted image 20250426230956.jpg",
+    "computer/Django/Template.md",
     "computer/Django/Syntax.md",
     "computer/Django/Setup.md",
     "computer/Django/Models.md",
@@ -185,7 +188,6 @@
     "computer/fast api/fast api.md",
     "tibet.md",
     "computer/fast api",
-    "india - china dispute.md",
     "image/Pasted image 20250425152825.png",
     "image/Pasted image 20250425153355.png",
     "image/Pasted image 20250425153134.png",
@@ -197,7 +199,6 @@
     "India.md",
     "index.md",
     "image/Pasted image 20250425143251.png",
-    "image/download.webp",
     "computer/Python/OS.md",
     "computer/Django/Views.md",
     "computer/Django/Urls.md",
@@ -209,14 +210,11 @@
     "computer/dsa/Qeue.md",
     "computer/dsa/Graph.md",
     "computer/dsa/dsa.md",
-    "computer/Django/Template.md",
     "computer/Python",
     "computer/network/Port.md",
     "computer/Django",
     "computer/network/DHCP.md",
     "computer/network/Network.md",
-    "computer/network/Packet Switching.md",
-    "company/Nokia.md",
     "computer/network",
     "Dart/Untitled",
     "computer/Dart",
