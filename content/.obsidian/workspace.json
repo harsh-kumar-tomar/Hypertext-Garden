@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tibet.md",
+                "file": "india - china dispute.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tibet"
+              "title": "india - china dispute"
             }
           },
           {
@@ -176,6 +176,7 @@
   },
   "active": "7ed7bf810632b7a2",
   "lastOpenFiles": [
+    "tibet.md",
     "india - pakistan dispute.md",
     "india - china dispute.md",
     "image/Pasted image 20250426230956.jpg",
@@ -186,7 +187,6 @@
     "computer/Django/Django.md",
     "computer/Django/App.md",
     "computer/fast api/fast api.md",
-    "tibet.md",
     "computer/fast api",
     "image/Pasted image 20250425152825.png",
     "image/Pasted image 20250425153355.png",

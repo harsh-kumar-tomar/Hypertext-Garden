@@ -10,8 +10,19 @@ Highway developed by china
 - tibet -> xinjiang
 - india didnt knew about this project and that area was least patrolled 
 
+# 1954
+- It was about **respecting each other's borders** and **living peacefully without interfering in each other's affairs**.
 # 1958
+
+**Panchsheel Agreement**
 - around this time india knew china have built a road 
+
+five principles
+- Mutual respect for each other's territorial integrity and sovereignty.
+- Mutual non-aggression.
+- Mutual non-interference in each other's internal affairs.
+- Equality and mutual benefit.
+- Peaceful coexistence.
 
 # 1959 - 1962
 **Sino Indian War**
