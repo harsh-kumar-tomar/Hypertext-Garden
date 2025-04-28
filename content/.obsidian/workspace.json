@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "45554a117e1849df",
+        "id": "c407e1a7ebb19a5d",
         "type": "tabs",
         "children": [
           {
-            "id": "7ed7bf810632b7a2",
+            "id": "90c06d7586735245",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "india - china dispute.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "india - china dispute"
-            }
-          },
-          {
-            "id": "8d2e318dc7333517",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer/Django/Template.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Template"
+              "title": "New tab"
             }
           }
         ]
@@ -174,11 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ed7bf810632b7a2",
+  "active": "39b76b4d5a40c66e",
   "lastOpenFiles": [
+    "india - china dispute.md",
+    "India/history.md",
+    "India",
     "tibet.md",
     "india - pakistan dispute.md",
-    "india - china dispute.md",
     "image/Pasted image 20250426230956.jpg",
     "computer/Django/Template.md",
     "computer/Django/Syntax.md",
@@ -219,7 +201,6 @@
     "Dart/Untitled",
     "computer/Dart",
     "Food",
-    "computer/Hashing",
-    "resume.pdf"
+    "computer/Hashing"
   ]
 }
