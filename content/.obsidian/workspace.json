@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Country/China/China.md",
+                "file": "Computer Science MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "China"
+              "title": "Computer Science MOC"
             }
           }
         ]
@@ -161,14 +161,14 @@
   },
   "active": "cd7f88355a4464aa",
   "lastOpenFiles": [
-    "Country MOC.md",
+    "index.md",
     "Areas/Country/China/China.md",
+    "Country MOC.md",
     "Areas/Country/China",
     "Computer Science MOC.md",
     "Areas/Computer/Android/Android.md",
     "Areas/Computer/Android/Basic.md",
     "Research.md",
-    "index.md",
     "Basics.md",
     "Areas/Computer/Flutter/e.md",
     "Areas/Computer/Django/Django.md",

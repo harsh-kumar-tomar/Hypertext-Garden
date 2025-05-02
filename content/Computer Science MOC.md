@@ -1,15 +1,15 @@
 [[Basics]]
 ## Languages
-[[Dart]]
-[[Python]]
-[[Dart]]
+1. [[Dart]]
+2. [[Python]]
+3. [[Dart]]
 
 
 ## Frameworks 
-[[Fast api]]
-[[Django]]
-[[Flutter]]
-[[Android]]
+1. [[Fast api]]
+2. [[Django]]
+3. [[Flutter]]
+4. [[Android]]
 
 
 
