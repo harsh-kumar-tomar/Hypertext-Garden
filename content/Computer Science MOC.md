@@ -1,10 +1,8 @@
-[[Basics]]
+1. [[Network]]
 ## Languages
 1. [[Dart]]
 2. [[Python]]
 3. [[Dart]]
-
-
 ## Frameworks 
 1. [[Fast api]]
 2. [[Django]]

@@ -1,4 +1,3 @@
-[[Research]]
 two  parts
 
 tax -> 75 - 80 %

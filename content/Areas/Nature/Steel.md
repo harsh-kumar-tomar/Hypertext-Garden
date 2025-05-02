@@ -1,4 +1,3 @@
-[[Research]]
 iron + carbon
 
 stainless steel = iron + carbon + chromium (best)

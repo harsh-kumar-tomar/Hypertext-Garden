@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "37d609aabcb6ebc8",
+        "id": "e5adeb5e99e25574",
         "type": "tabs",
         "children": [
           {
-            "id": "cd7f88355a4464aa",
+            "id": "0ec59b31273c1bc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science MOC.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Science MOC"
+              "title": "index"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#interpreter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,53 +159,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd7f88355a4464aa",
+  "active": "0ec59b31273c1bc9",
   "lastOpenFiles": [
+    "Areas/Nature/BPA.md",
+    "About Me.md",
+    "Areas/Nature/Cloud.md",
     "index.md",
-    "Areas/Country/China/China.md",
     "Country MOC.md",
-    "Areas/Country/China",
     "Computer Science MOC.md",
+    "Areas/Nature/Silicone.md",
+    "image/71xrlnvjsrl-sx522-500x500.webp",
+    "image/silicone-spoons-image-600x450-1.webp",
+    "Areas/Health/Practice/Hijama Therapy (Cupping).md",
+    "image/Pasted image 20250502200421.jpg",
+    "image/Pasted image 20250502200356.jpg",
+    "Areas/Health/Practice/Oil pulling.md",
+    "Areas/Country/India/India.md",
+    "Areas/Country/India/Revenue.md",
+    "Areas/Computer/Programming Language/Kotlin/Index.md",
+    "Areas/Computer/Programming Language/Kotlin/Kotlin.md",
+    "Areas/Computer/Kotlin.md",
+    "Areas/Computer/Android/Coroutine.md",
     "Areas/Computer/Android/Android.md",
-    "Areas/Computer/Android/Basic.md",
-    "Research.md",
     "Basics.md",
+    "Areas/Nature/Space/Moon.md",
+    "Research.md",
+    "Areas/Nature/Steel.md",
+    "Areas/Science/Engine.md",
+    "Areas/Computer/CS Concepts/Bitcoin.md",
+    "Areas/Nature/Plants",
+    "Areas/Country/China/China.md",
+    "Areas/Country/China",
+    "Areas/Computer/Android/Basic.md",
     "Areas/Computer/Flutter/e.md",
-    "Areas/Computer/Django/Django.md",
-    "Areas/Computer/Django/Urls.md",
     "Areas/Nature/Space",
     "Areas/Health/Practice",
     "Areas/Health/Food",
-    "Areas/Country/Tibet/History.md",
-    "Areas/Country/India/India.md",
-    "About Me.md",
-    "Areas/Computer/CS Concepts/Compiler.md",
-    "Areas/Country/Tibet/Tibet.md",
     "Areas/Country/Tibet",
-    "Areas/Science/Engine.md",
-    "Areas/Health/Practice/oil pulling.md",
     "Areas/Science",
-    "Areas/Country/India/Govt of india earning sources.md",
-    "Areas/Nature/Cloud.md",
-    "Areas/Nature/Cotton.md",
-    "Areas/Computer/Programming.md",
-    "Areas/Nature/Steel.md",
     "Areas/Nature",
-    "Areas/Country/India/Export.md",
-    "Areas/Country/India/Import.md",
-    "Areas/Computer/CS Concepts/Sha.md",
     "Areas/Computer/Programming Language/Kotlin",
     "Areas/Computer/CS Concepts",
-    "Areas/Computer/Programming Language",
     "image/Pasted image 20250428145529.jpg",
     "image/Pasted image 20250428145455.jpg",
     "image/Pasted image 20250428145348.png",
     "image/Pasted image 20250428145301.jpg",
     "image/Pasted image 20250428145145.jpg",
-    "image/Pasted image 20250428144957.jpg",
-    "image/Pasted image 20250428144855.jpg",
-    "image/Pasted image 20250428144809.jpg",
-    "image/Pasted image 20250428144711.jpg",
-    "image/Pasted image 20250428144518.jpg"
+    "image/Pasted image 20250428144957.jpg"
   ]
 }
