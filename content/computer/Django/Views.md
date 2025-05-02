@@ -1,4 +1,4 @@
-[[Django]]
+[[__Django]]
 
 views are functions which return html file means return what needs to be viewed
 

@@ -1,4 +1,4 @@
-[[Django]] setup
+[[__Django]] setup
 
 ```python
 # for setting up virtual env

@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90c06d7586735245",
+            "id": "ac68afd317ea03b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer/Django/Setup.md",
+                "file": "computer/Django/__Django.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setup"
+              "title": "__Django"
             }
           }
         ]
@@ -159,9 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90c06d7586735245",
+  "active": "ac68afd317ea03b4",
   "lastOpenFiles": [
-    "computer/fast api/fast api.md",
+    "Computer Science.md",
+    "computer/Python/OS.md",
+    "computer/Django/Setup.md",
+    "computer/Fast api/fast api.md",
     "index.md",
     "fighter jet.md",
     "image/Pasted image 20250428145529.jpg",
@@ -181,13 +184,11 @@
     "india - pakistan dispute.md",
     "computer/Django/Template.md",
     "computer/Django/Syntax.md",
-    "computer/Django/Setup.md",
     "computer/Django/Models.md",
-    "computer/Django/Django.md",
+    "computer/Django/__Django.md",
     "computer/Django/App.md",
-    "computer/fast api",
+    "computer/Fast api",
     "India.md",
-    "computer/Python/OS.md",
     "computer/Django/Views.md",
     "computer/Django/Urls.md",
     "cotton.md",
