@@ -1,11 +1,11 @@
 ## What
-Hijama is a form of wet cupping therapy where small incisions are made on the skin and suction cups are applied to draw out a small quantity of blood.
-Also called Dry Cupping where no cuts are made .
+- Hijama is a form of wet cupping therapy where small incisions are made on the skin and suction cups are applied to draw out a small quantity of blood.
+- Also called Dry Cupping where no cuts are made .
 
 ## Origin
-Old  as 3000 BCE .
-Egypt , Greece , China
-The Prophet Muhammad reportedly endorsed it → so it holds religious-cultural significance in Muslim communities.
+- Old  as 3000 BCE .
+- Egypt , Greece , China
+- The Prophet Muhammad reportedly endorsed it → so it holds religious-cultural significance in Muslim communities.
 ## Why
 People do this because : 
 1. It improves blood flow . 

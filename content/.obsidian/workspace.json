@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Country MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Country MOC"
+            }
+          },
+          {
+            "id": "30ba398c7cd6a9a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Technology/Air Fryer.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Air Fryer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,21 +175,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ec59b31273c1bc9",
+  "active": "30ba398c7cd6a9a0",
   "lastOpenFiles": [
+    "fred-van-der-weij-uitvinder-van-de-airfryer-van-philips.webp",
+    "Pasted image 20250503191026.jpg",
+    "Areas/Health/Practice/Oil pulling.md",
+    "Areas/Technology/Air Fryer.md",
+    "Areas/Technology",
+    "Areas/Health/Practice/Hijama Therapy (Cupping).md",
+    "Computer Science MOC.md",
+    "Country MOC.md",
+    "index.md",
     "Areas/Nature/BPA.md",
     "About Me.md",
     "Areas/Nature/Cloud.md",
-    "index.md",
-    "Country MOC.md",
-    "Computer Science MOC.md",
     "Areas/Nature/Silicone.md",
     "image/71xrlnvjsrl-sx522-500x500.webp",
     "image/silicone-spoons-image-600x450-1.webp",
-    "Areas/Health/Practice/Hijama Therapy (Cupping).md",
     "image/Pasted image 20250502200421.jpg",
     "image/Pasted image 20250502200356.jpg",
-    "Areas/Health/Practice/Oil pulling.md",
     "Areas/Country/India/India.md",
     "Areas/Country/India/Revenue.md",
     "Areas/Computer/Programming Language/Kotlin/Index.md",
@@ -191,7 +211,6 @@
     "Areas/Country/China/China.md",
     "Areas/Country/China",
     "Areas/Computer/Android/Basic.md",
-    "Areas/Computer/Flutter/e.md",
     "Areas/Nature/Space",
     "Areas/Health/Practice",
     "Areas/Health/Food",
@@ -199,12 +218,10 @@
     "Areas/Science",
     "Areas/Nature",
     "Areas/Computer/Programming Language/Kotlin",
-    "Areas/Computer/CS Concepts",
     "image/Pasted image 20250428145529.jpg",
     "image/Pasted image 20250428145455.jpg",
     "image/Pasted image 20250428145348.png",
     "image/Pasted image 20250428145301.jpg",
-    "image/Pasted image 20250428145145.jpg",
-    "image/Pasted image 20250428144957.jpg"
+    "image/Pasted image 20250428145145.jpg"
   ]
 }
