@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Technology/Air Fryer.md",
+                "file": "Areas/Health/Tech/CT Coronary Angiography.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Air Fryer"
+              "title": "CT Coronary Angiography"
             }
           }
         ],
@@ -177,10 +177,14 @@
   },
   "active": "30ba398c7cd6a9a0",
   "lastOpenFiles": [
-    "fred-van-der-weij-uitvinder-van-de-airfryer-van-philips.webp",
-    "Pasted image 20250503191026.jpg",
-    "Areas/Health/Practice/Oil pulling.md",
+    "Areas/Health/Tech/Ultra Sound.md",
+    "Areas/Health/Tech/CT Coronary Angiography.md",
+    "Areas/Health/Tech/MRI.md",
     "Areas/Technology/Air Fryer.md",
+    "Areas/Health/Tech",
+    "image/fred-van-der-weij-uitvinder-van-de-airfryer-van-philips.webp",
+    "image/Pasted image 20250503191026.jpg",
+    "Areas/Health/Practice/Oil pulling.md",
     "Areas/Technology",
     "Areas/Health/Practice/Hijama Therapy (Cupping).md",
     "Computer Science MOC.md",
@@ -208,20 +212,16 @@
     "Areas/Science/Engine.md",
     "Areas/Computer/CS Concepts/Bitcoin.md",
     "Areas/Nature/Plants",
-    "Areas/Country/China/China.md",
     "Areas/Country/China",
-    "Areas/Computer/Android/Basic.md",
     "Areas/Nature/Space",
     "Areas/Health/Practice",
     "Areas/Health/Food",
     "Areas/Country/Tibet",
     "Areas/Science",
     "Areas/Nature",
-    "Areas/Computer/Programming Language/Kotlin",
     "image/Pasted image 20250428145529.jpg",
     "image/Pasted image 20250428145455.jpg",
     "image/Pasted image 20250428145348.png",
-    "image/Pasted image 20250428145301.jpg",
-    "image/Pasted image 20250428145145.jpg"
+    "image/Pasted image 20250428145301.jpg"
   ]
 }
