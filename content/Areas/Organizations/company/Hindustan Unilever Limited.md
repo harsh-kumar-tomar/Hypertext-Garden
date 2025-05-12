@@ -1,4 +1,4 @@
-[[Company]]
+[[_Company]]
 Year : 1933
 location : Mumbai , India
 person behind : Lever Brothers

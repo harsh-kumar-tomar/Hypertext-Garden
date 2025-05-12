@@ -1,4 +1,4 @@
-[[Company]]
+[[_Company]]
 
 name : human mobile devices global
 year : 2016

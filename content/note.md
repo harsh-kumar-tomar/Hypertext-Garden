@@ -1,3 +1,212 @@
+
+structured data
+- stored in rdms
+- easily searchable
+
+semi structured data
+- no fixed format
+- diff to anaylse
+un structured data
+- data have some kind of tags or markers not as rigid
+- like json
+
+charactertic of big data platform
+- scalability
+- distributed storage 
+- distributed processing
+- fault tolerance
+- support for diverse data
+- real time processing
+- cost effective
+
+drivers for big data
+- explosion of data
+- emergence of internet 
+- emrgence of iot
+- cheap storage solution
+- cloud computing availability
+- business need for anaylisis
+
+big data architecture
+- data source -> iot devices , social media 
+- data ingestion -> kafka , flume
+- storage layer -> hdfs , nosql
+- processing layer -> mapraduce , spark
+- anaysis layer -> hive , pig , ML lib
+- visualization layer -> power bi , tableau
+- management and monitoring -> ambari , zookeeper
+
+5vs of big data
+- velocity
+- value
+- veracity
+- volume
+- variety
+
+big data tech component
+data storage component -> distributed file sys, nosql db , cloud storage
+data processing component -> batch , stream processing , query engine
+data ingestion -> batch , stream ingesiton
+
+big data importance 
+- data driven decision making
+- business optimization
+- cost reduction
+- real time insight
+- improved customer experiecnce
+- competetive advantage
+
+big data application
+- heathcare
+- e commerce
+- banking
+- manufacturing
+- government
+- education
+- transportion and logistics
+- media and entertainment
+
+## unit 2
+
+history of hadoop
+- 2005 -> started under paper (google file system + map reduce simplified data processing on large clusters)
+- 2006 -> hdfs + mapreduce
+- 2008 -> developed to apache incubator
+- 2008 - 13 -> hadoop 1.x versions released . hive + pig + Hbase
+- 2013 - > hadoop 2.x version realeased . yarn 
+- 2015 - present -> hdfs , mapreduce, hive,pig , yarn ,  Hbase , spark
+
+
+hdfs
+- distributed storage
+- block based storage
+- fault tolerace
+- write once read many model
+- high throughput (large scale processing)
+- master slave architecture
+- data integrity using checksum
+- scalable
+- replication upto 3 
+- data locality
+
+challenges of hdfs
+- not suitable for small files
+- write once read many limitation
+- single point of failure of namenode
+- large meta data files because of small files
+
+hdfs archecture
+- namenode
+- datanode
+
+
+component of hadoop
+- data storage component -> hdfs
+- data processing component -> mapreduce , yarn , spark
+- data management component -> hive , pig , HBase , ZooKeeper
+
+common format in hadoop
+- text file
+- sequence file
+- avro
+- parquet
+- orc
+
+anaylising data with hadoop
+- map reduce for hadoop
+	- map phase 
+		- input data to key val pair , and processes each pair to produce output (intermediate data)
+		- this map func is applied paralllely , across nodes for  effecinecy
+	- reduce phase
+		 - map out put is filltered or aggregated and final output is generated
+		 - reduce func aggregate result and show it as result 
+
+- hive
+- pig
+- spark
+- hbase
+
+
+hadoop scaling out 
+- adding more machine to cluster to increase performance
+
+hadoop streaming
+- hadoop utility , to connect mapreduce framework to non java programs 
+- can write own programs using py
+- custom map func
+- custom reduce func
+
+hadoop pipe
+- c++ api to connect hadoop to c++ programming lang 
+- can write program using c++
+- for perforce critical enironment 
+
+more about map reduce
+- map reduce (programming model + processing framework)
+- used for parallel processing
+- data is broken down 
+- than prcessed in different machine
+mapper
+reducer
+input output
+shuffle and sort
+ 
+
+
+
+## unit 3
+
+
+
+block abstraction in hdfs
+- block level abstraction
+- block location
+- block replication
+- block rebalacing
+
+data replication in hdfs
+- replication basics
+- replication factor
+- fault tolerance
+- block placement strategy
+
+how hdfs stores files ?
+- file splitting into blocks
+- block assignment to data node
+- replication
+- data integrity
+
+how hdfs read file ?
+- request to namenode
+- data node communication
+- data transfer
+- block retrival
+
+how hdfs write file ?
+- request to namenode
+- data wrting to datanode
+- pipeline mechnism for replication
+- acknlowlegement
+
+java interface to hdfs
+
+
+data ingest
+- importing data into  big data platform like hadoop
+apache flume
+
+fume architecture
+- source
+- channel (buffer)
+- sinks
+
+sqoop
+
+hadoop io 
+
+
+
+
 # **SQL vs NoSQL Database (Comparison Table)**
 
 | **Feature**              | **SQL Database** (Relational)                                                 | **NoSQL Database** (Non-Relational)                                                            |

@@ -1,4 +1,4 @@
-[[Company]]
+[[_Company]]
 xYear : 1966
 person behind : Dhirubhai Ambani
 location : Mumbai , India

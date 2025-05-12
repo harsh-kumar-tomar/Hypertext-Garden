@@ -1,4 +1,3 @@
-[[[Company]]]
 
 
 origin : [[Finland]]
