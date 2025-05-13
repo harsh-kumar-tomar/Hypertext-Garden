@@ -10,13 +10,13 @@ un structured data
 - data have some kind of tags or markers not as rigid
 - like json
 
-charactertic of big data platform
-- scalability
+charactertic of big data platforms
 - distributed storage 
-- distributed processing
 - fault tolerance
-- support for diverse data
+- scalability
+- distributed processing
 - real time processing
+- support for diverse data
 - cost effective
 
 drivers for big data
@@ -81,12 +81,12 @@ hdfs
 - distributed storage
 - block based storage
 - fault tolerace
+- scalable
+- replication upto 3 
 - write once read many model
 - high throughput (large scale processing)
 - master slave architecture
 - data integrity using checksum
-- scalable
-- replication upto 3 
 - data locality
 
 challenges of hdfs
@@ -203,11 +203,56 @@ fume architecture
 sqoop
 
 hadoop io 
+why compression ?
+- storage efficiency
+- network efficiency
+- improved io tranfer
+
+types of compression 
+- Gzip
+- Bzip2
+- snappy
+- LZO
+
+serialization
+
+
+hadoop cluster
+
+## unit 4
+
+Yarn
+- part of hadoop 2.0
+- to manage hadoop cluster , to allocate resource , handle schedule ,to execute job in cluster
+- replacement of jobtracker of hadoop 1.0
+- components of yarn
+	- resource manager -> manage overall cluster resource
+	- node manager -> maange single node and report tot the resource manager
+	- application master -> each app have its own applciation master to manage job 
+
+
+hadoop 2.0 features
+- prev one namenode fails everything fails -> now two name node active and standby namenode
+- hadoop federation
+- mapreduce version 2 -> run map reduce via yarn 
+- yarn
+
+shedulers in yarn
+- fair sheduler
+- capacity sheduler
 
 
 
 
-# **SQL vs NoSQL Database (Comparison Table)**
+
+
+
+
+
+
+
+
+## SQL vs NoSQL Database (Comparison Table)
 
 | **Feature**              | **SQL Database** (Relational)                                                 | **NoSQL Database** (Non-Relational)                                                            |
 | ------------------------ | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
@@ -222,9 +267,16 @@ hadoop io
 | **Data Integrity**       | **High integrity** (foreign keys, constraints)                                | Less strict, focuses on **speed & flexibility**                                                |
 | **Performance**          | Best for **complex queries & transactions**                                   | Best for **fast reads/writes**, massive data, distributed systems                              |
 | **Examples of Use-case** | Banking system, Inventory, HR system                                          | Chat apps, Content management, Recommendation systems, IoT                                     |
+## types of no sql db
+- key value store
+- document store
+- column family store
+- graph db
+
+addvantage and disadvantage of no sql db
 
 
-# Pig 
+## Pig 
 - run over the hadoop
 - part of hadoop 
 - used for data processing
@@ -246,4 +298,4 @@ hadoop io
 - used to query large data
 - uses it own lang HiveQL
 - used to hide complex hadoop complexity and give simple interface to user
-- 
+
