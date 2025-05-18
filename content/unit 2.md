@@ -59,8 +59,8 @@ hadoop framwork consists of
 anaylising data with hadoop
 
 **map reduce**
-- a programming model
-- haaev two main function 
+- a programming model or a framwork
+- have two main function 
 	- map function
 	- reduce function
 - working process
@@ -83,6 +83,7 @@ anaylising data with hadoop
 
  job -> task 
  **map reduce component** 
+![[Pasted image 20250518234108.png]]
 
 🔹1. **JobTracker (Deprecated → ResourceManager in YARN)**
 - **JobTracker** Hadoop v1 me ek **master daemon** tha jo:
@@ -101,7 +102,7 @@ anaylising data with hadoop
  🔹 3. **InputSplit**
 - InputSplit ek logical chunk hai input data ka.
 - Hadoop ek large file ko multiple **InputSplits** me tod deta hai so that parallel execution ho sake.
-- **Map tasks** ko yeh splits assign kiya jaata hai.
+- **Map tasks** ko yeh single splits assign kiya jaata hai.
 - Example: Agar file 1GB hai and block size 128MB hai, to ~8 splits banenge.
 
 🔹 4. **RecordReader**

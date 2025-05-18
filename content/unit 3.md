@@ -1,3 +1,5 @@
+
+
 architecture of hdfs
 - namenode
 - datanode
