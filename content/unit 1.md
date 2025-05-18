@@ -10,6 +10,14 @@ big data platform
 - unstructured
 - semi strucutured
 
+history of big data
+- 1950-60 : first computer , first storage device
+- 1970 : E.F Codd sql model
+- 1990 : internet boom , webpages , OLAP 
+- 2001 : big data term (volume , varierty , velocity)
+- 2004 - 2006 : hadoop born
+- modern h
+
 **charactertic of big data platforms**
 - distributed storage 
 - fault tolerance
@@ -32,8 +40,9 @@ big data platform
 
 **big data architecture**
 ![[Pasted image 20250518144358.png]]
+![[Pasted image 20250518221137.png]]
 
-**5vs of big data**
+**5vs of big data** / charactertic of big data 
 - velocity
 - value
 - veracity

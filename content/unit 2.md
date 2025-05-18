@@ -11,7 +11,7 @@ historey of hadoop
 - **2015–Present** → Modern Hadoop ecosystem includes:
     - **HDFS**, **MapReduce**, **YARN**, **Hive**, **Pig**, **HBase**, **Spark**, **Zookeeper**, **Oozie**, etc.
 ---
-
+Doug and Mike 
 history of hadoop
 - 2005 -> started under paper (google file system + map reduce simplified data processing on large clusters)
 - 2006 -> hdfs + mapreduce
@@ -19,6 +19,13 @@ history of hadoop
 - 2008 - 13 -> hadoop 1.x versions released . hive + pig + Hbase
 - 2013 - > hadoop 2.x version realeased . yarn 
 - 2015 - present -> hdfs , mapreduce, hive,pig , yarn ,  Hbase , spark
+
+hadoop framwork consists of
+- hadoop common
+- hdfs
+- map reduce
+- yarn
+
 
 **hdfs**
 - distributed storage
@@ -74,7 +81,7 @@ anaylising data with hadoop
 		 - map out put is filltered or aggregated and final output is generated
 		 - reduce func aggregate result and show it as result 
 
-
+ job -> task 
  **map reduce component** 
 
 🔹1. **JobTracker (Deprecated → ResourceManager in YARN)**
@@ -137,6 +144,16 @@ anaylising data with hadoop
 - parallel processing
 - fault tolerance
 - scalability
+- data locality
+
+map reduce application
+- log processing
+- data minig
+- recommendation sys
+- search indexing
+- financial modeling
+- social media anaylitics
+- 
 
 job scheduling 
 - fifo
