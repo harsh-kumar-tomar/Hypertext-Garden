@@ -43,10 +43,7 @@ big data architecture
 - volume
 - variety
 
-big data tech component
-data storage component -> distributed file sys, nosql db , cloud storage
-data processing component -> batch , stream processing , query engine
-data ingestion -> batch , stream ingesiton
+
 
 big data importance 
 - data driven decision making
