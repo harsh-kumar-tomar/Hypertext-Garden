@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3076b24ca0d452b6",
+        "id": "bb22024902e5f6fb",
         "type": "tabs",
         "children": [
           {
-            "id": "91d43ca294a69bda",
+            "id": "1a1a872c5594502c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ED.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ED"
             }
           }
         ]
@@ -73,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4e13f7c7722dd12a",
@@ -154,14 +160,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39b76b4d5a40c66e",
+  "active": "1a1a872c5594502c",
   "lastOpenFiles": [
+    "Pasted image 20250520194843.png",
     "unit 2.md",
+    "ED.md",
+    "unit 1.md",
     "unit 3.md",
     "image/Pasted image 20250518234108.png",
     "unit 5.md",
     "unit 4.md",
-    "unit 1.md",
     "image/Pasted image 20250518221137.png",
     "note.md",
     "image/Pasted image 20250518181047.png",
@@ -195,7 +203,6 @@
     "Areas/Computer/Kotlin",
     "Areas/Computer/Mongo Db",
     "Missile.md",
-    "Areas/Organizations/Company/_Company.md",
     "Areas/Nature/Air",
     "Areas/Nature/Man Made",
     "Areas/Health/Tech",
