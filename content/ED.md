@@ -8,6 +8,42 @@
 *impt topics*
 *balance sheet , planning and production control, economic viability , expected cost*
 
+
+## balance sheet
+- assets + liability + capital
+
+assets
+- non current
+- current
+
+liability
+- long term
+- short term 
+asset = liability + own capital
+
+objectives
+- to understand financial pos
+- to check liabiltiy and asset 
+- help in decision making for investores
+- can business give back debt
+- use ful for future planning 
+
+accounts and ca prepares balance sheet and gets verified by third party auditors
+
+
+## economic viablity 
+
+- can this business generate profit for longer period of time 
+compoennts
+- cost anaylsis
+- revenue forecasting
+- profitability (net profit = revenue - total costs)
+- break even anaylsis
+- cash flow
+- payback period
+- 
+
+
 ---
 
 # unit 4
