@@ -110,6 +110,13 @@ challeges
 - welfare > profit
 - lack of innvoation
 
+## Profit plaaning
+- systematic planning that company follow for future profits + sustainbale growth+ business objectives
+- estimatation of sales , expenses , profits
+
+## Profit programming
+- profit plan
+
 
 
 
