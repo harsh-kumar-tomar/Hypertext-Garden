@@ -43,7 +43,13 @@
 |     | Hero                                        | for trnasition                                                         |
 |     | scaffoldmessenger.of(context).showsnakbar() |                                                                        |
 |     | snackbar                                    | behaviour                                                              |
-|     |                                             |                                                                        |
+|     | showdialog                                  |                                                                        |
+|     | divider                                     |                                                                        |
+|     | vertical divider                            |                                                                        |
+|     | card                                        |                                                                        |
+|     | lottie                                      |                                                                        |
+|     | fittedbox                                   |                                                                        |
+|     | size                                        |                                                                        |
 
 # Enum
 
