@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Computer/Flutter/Flutter.md",
+                "file": "Areas/Tech/Flutter/Widgets.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flutter"
+              "title": "Widgets"
             }
           }
         ],
@@ -177,6 +177,16 @@
   },
   "active": "8b925965fd25edd4",
   "lastOpenFiles": [
+    "Areas/Tech/Flutter/Navigation.md",
+    "Areas/Tech/Flutter/_Flutter.md",
+    "Areas/Tech/Flutter/e.md",
+    "Areas/Tech/Fast api/_Fast api.md",
+    "Areas/Tech/Python/Pydantic.md",
+    "Areas/Tech/Python/_Python.md",
+    "Areas/Tech/Concepts/ORM.md",
+    "Areas/Tech/Python",
+    "Areas/Tech/Flutter/Widgets.md",
+    "Areas/Tech/Flutter/Setup.md",
     "Computer  MOC.md",
     "index.md",
     "Missile.md",
@@ -205,23 +215,13 @@
     "Areas/Technology/_Technology.md",
     "Areas/Technology/Air Fryer.md",
     "Natural Moc.md",
-    "Areas/Computer/Mongo Db/Operator.md",
-    "Areas/Computer/Mongo Db/_Mongo Db.md",
-    "Areas/Computer/Mongo Db/Create.md",
-    "Areas/Computer/Mongo Db/Introduction.md",
-    "Areas/Computer/Mongo Db/Delete.md",
-    "Areas/Computer/Mongo Db/Data Types.md",
-    "Areas/Computer/Mongo Db/Read.md",
-    "Areas/Computer/Mongo Db/Update.md",
-    "Areas/Computer/SQL/SQL.md",
-    "Areas/Computer/SQL",
-    "Areas/Computer/Kotlin/Kotlin.md",
-    "Areas/Computer/Kotlin",
-    "Areas/Computer/Mongo Db",
+    "Areas/Tech/Mongo Db/Operator.md",
+    "Areas/Tech/SQL",
+    "Areas/Tech/Kotlin",
+    "Areas/Tech/Mongo Db",
     "Areas/Nature/Air",
     "Areas/Nature/Man Made",
     "Areas/Health/Tech",
-    "Areas/Technology",
-    "Areas/Nature/Plants"
+    "Areas/Technology"
   ]
 }

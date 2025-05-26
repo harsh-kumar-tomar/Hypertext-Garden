@@ -1,4 +1,4 @@
-[[Areas/Computer/Android/Programming]]
+[[Programming]]
 
 4. what is Authentication and Authorization ? 
 ## Authentication -> kaun ho tum

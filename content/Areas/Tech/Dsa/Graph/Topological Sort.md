@@ -8,7 +8,7 @@ ex
 a --> b --> c --> a
 as it makes no sense .
 
-It only works in directed [[Areas/Computer/Dsa/Graph/Graph|Graph]] as there is no sense of direction in non directed graphs.
+It only works in directed [[Areas/Tech/Dsa/Graph/Graph|Graph]] as there is no sense of direction in non directed graphs.
 And yes there can be more than one topological sort for the given graph. 
 
 There are two algorithms to find topological sort :

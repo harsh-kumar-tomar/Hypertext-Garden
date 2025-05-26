@@ -1,4 +1,4 @@
-[[Areas/Computer/Android/Programming]]
+[[Programming]]
 # Reference
 A _reference_ is information about the location of an object. A reference is stored in the **stack memory** and the actual object is stored in the **Heap** memory of the JVM.
 

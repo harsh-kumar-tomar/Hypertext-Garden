@@ -1,7 +1,7 @@
 # Index
 [[App]]
 [[Models]]
-[[Setup]]
+[[Areas/Tech/Django/Setup]]
 [[Syntax]]
 [[Template]]
 [[Urls]]
