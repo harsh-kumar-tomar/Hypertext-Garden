@@ -1,16 +1,16 @@
 1. [[Network]]
 ## Languages
-1. [[Dart]]
-2. [[Python]]
-3. [[Dart]]
-4. [[Areas/Tech/Kotlin/Kotlin|Kotlin]]
+1. [[_Dart]]
+2. [[_Python]]
+3. [[_Dart]]
+4. [[_Kotlin]]
 ## Frameworks 
 1. [[_Fast api]]
-2. [[Django]]
+2. [[_Django]]
 3. [[_Flutter]]
 4. [[Android]]
 ## Database
 1. [[_Mongo Db]]
-2. [[SQL]]
+2. [[_SQL]]
 
 

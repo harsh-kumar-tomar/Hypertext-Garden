@@ -1,4 +1,4 @@
-[[Django]]
+[[_Django]]
 
 It is used to map url to view 
 
