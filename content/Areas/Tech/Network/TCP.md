@@ -21,7 +21,7 @@ On the **receiving side**:
 
 # Connection
 
-tcp connection happens in 3 step
+tcp handshake connection happens in 3 step
 
 ![[Pasted image 20250529130603.png|600]]
 
@@ -29,3 +29,33 @@ tcp connection termination
 
 ![[Pasted image 20250529130635.png|600]]
 
+
+OS manages the tcp part for both server and client perspective . 
+
+system call from client perspective 
+
+```python
+socket()     # Create a TCP socket
+connect()    # Ask OS to connect to server (initiates TCP handshake)
+send()       # Pass data to OS
+recv()       # Ask OS for response data
+close()      # Ask OS to close connection
+```
+
+system call from server perspective
+
+```python
+socket()      # Create a TCP socket
+bind()        # Bind to a port (e.g., 80 or 443)
+listen()      # Listen for incoming connections
+accept()      # Accept a new connection (creates a new socket)
+recv()/send() # Handle request/response
+close()       # Close client connection
+```
+
+handshake 
+- **Client OS sends SYN** packet
+- **Server OS replies SYN-ACK**
+- **Client OS sends ACK**
+
+	

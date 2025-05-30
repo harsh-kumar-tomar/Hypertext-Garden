@@ -23,7 +23,32 @@
             }
           },
           {
-            "id": "466e09c2a9fa6a52",
+            "id": "7fa77ab62051ddc7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "79b930c87f7d19b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Tech/Network/Socket.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Socket"
+            }
+          },
+          {
+            "id": "46a3a97b90593f2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,6 +60,21 @@
               },
               "icon": "lucide-file",
               "title": "TCP"
+            }
+          },
+          {
+            "id": "466e09c2a9fa6a52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Tech/Database/ACID.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ACID"
             }
           },
           {
@@ -68,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,17 +245,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "466e09c2a9fa6a52",
+  "active": "46a3a97b90593f2c",
   "lastOpenFiles": [
+    "Areas/Tech/Network/Socket.md",
+    "Areas/Tech/Network/Port.md",
+    "Areas/Tech/Network/_Network.md",
+    "Areas/Tech/Network/TCP.md",
+    "Areas/Tech/Database/ACID.md",
+    "Areas/Tech/Database/_Database.md",
+    "Areas/Tech/Database",
     "Pasted image 20250529130635.png",
     "Pasted image 20250529130603.png",
-    "Areas/Tech/Network/_Network.md",
     "Computer  MOC.md",
     "Areas/Tech/Network/HTTP.md",
     "Health Moc.md",
-    "Areas/Tech/Network/TCP.md",
     "Areas/Tech/Network/DHCP.md",
-    "Areas/Tech/Network/Port.md",
     "Areas/Tech/Network/Packet Switching.md",
     "Areas/Tech/Flutter/Navigation.md",
     "script.md",
@@ -234,8 +278,6 @@
     "Areas/Tech/Programming Language/Python/OS.md",
     "Areas/Tech/Programming Language/Kotlin/Index.md",
     "Areas/Tech/Programming Language/Kotlin/_Kotlin.md",
-    "Areas/Tech/Programming Language/Python/Python.md",
-    "Areas/Tech/Kotlin/Kotlin.md",
     "Areas/Tech/Pydantic",
     "Areas/Tech/Sqlalchemy",
     "Areas/Tech/Python",
@@ -245,13 +287,11 @@
     "image/Pasted image 20250518181047.png",
     "image/Pasted image 20250518181432.png",
     "image/Pasted image 20250518181230.png",
-    "image/Pasted image 20250518181207.png",
     "KOE097-BIG-DATA.pdf",
     "note.pdf",
     "Areas/Tech/SQL",
     "Areas/Tech/Kotlin",
     "Areas/Tech/Mongo Db",
-    "Areas/Nature/Air",
-    "Areas/Nature/Man Made"
+    "Areas/Nature/Air"
   ]
 }
