@@ -53,13 +53,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Tech/Programming Language/Python/hashlib.md",
+                "file": "Areas/Tech/Programming Language/Python/with.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hashlib"
+              "title": "with"
             }
           },
           {
@@ -247,6 +247,9 @@
   },
   "active": "46a3a97b90593f2c",
   "lastOpenFiles": [
+    "Areas/Tech/Programming Language/Python/del.md",
+    "Areas/Tech/Programming Language/Python/with.md",
+    "Areas/Tech/Programming Language/Python/locals() and globals().md",
     "Areas/Tech/Programming Language/Python/_Python.md",
     "Areas/Tech/Programming Language/Python/hashlib.md",
     "Areas/Tech/Programming Language/Python/OS.md",
@@ -275,9 +278,6 @@
     "Areas/Tech/Django/_Django.md",
     "Areas/Tech/Flutter/_Flutter.md",
     "Areas/Tech/Flutter/Setup.md",
-    "Areas/Tech/SQL/_SQL.md",
-    "Areas/Tech/Programming Language/Dart/_Dart.md",
-    "Areas/Tech/Programming Language/Kotlin/Index.md",
     "Areas/Tech/Pydantic",
     "Areas/Tech/Sqlalchemy",
     "Areas/Tech/Python",
