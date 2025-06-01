@@ -1,5 +1,12 @@
 # Index
 - [[OS]]
+- [[del]]
+- [[hashlib]]
+- [[json]]
+- [[with]]
+- [[locals() and globals()]]
+
+
 
 
 **Library**
@@ -8,5 +15,4 @@
 
 **Frameworks**
 - [[_Django]]
-- [[_Fast api]]
-- 
+- [[_Fast api]] 
