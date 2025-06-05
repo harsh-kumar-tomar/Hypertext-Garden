@@ -9,7 +9,7 @@ export default ((opts?: Options) => {
   const Footer: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <div class="centered-stars">***</div>
+        {/* Footer content removed */}
       </footer>
     )
   }
