@@ -2,7 +2,7 @@
 
 - [[App]]
 - [[Models]]
-- [[Areas/Tech/Django/Setup|Setup]]
+- [[Tech/Django/Setup|Setup]]
 - [[Syntax]]
 - [[Template]]
 - [[Urls]]

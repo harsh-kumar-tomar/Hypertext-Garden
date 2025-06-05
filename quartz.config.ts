@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Nunito",
+        header: "DM Serif Display",
         body: "Bricolage Grotesque",
         code: "JetBrains Mono",
       },

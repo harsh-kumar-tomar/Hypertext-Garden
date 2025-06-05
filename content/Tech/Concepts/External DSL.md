@@ -8,7 +8,7 @@ markdown files for writing data
 html and css for structure and styling 
 
 
-[[Json]] : it does not comes under hosting language javascript ([[Internal DSL]]) . It is inspired by javascript syntax eg
+[[json]] : it does not comes under hosting language javascript ([[Internal DSL]]) . It is inspired by javascript syntax eg
 
 ```
 { key : value }

@@ -1,6 +1,6 @@
 # Index
 
 
-- [[Areas/Tech/Flutter/Setup|Setup]]
+- [[Tech/Flutter/Setup|Setup]]
 - [[Widgets]]
 - [[Navigation]]
