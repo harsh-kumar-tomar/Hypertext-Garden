@@ -1,0 +1,3 @@
+ ![[Pasted image 20250607113811.png]]
+
+On August 3, 2014 ( 19 July , When Marnie Was There), Studio Ghibli temporarily halted(stop) production following the retirement of Miyazaki. In February 2017, Toshio Suzuki announced that Miyazaki had come out of retirement again to direct a new feature film, [_How Do You Live?_](), with Studio Ghibli .Other directors who have worked with Studio Ghibli include [Yoshifumi Kondō](), [Hiroyuki Morita], [Gorō Miyazaki], and [Hiromasa Yonebayashi] .

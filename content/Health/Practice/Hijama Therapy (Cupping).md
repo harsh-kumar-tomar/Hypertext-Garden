@@ -1,3 +1,5 @@
+![[Pasted image 20250502200421.jpg|600]]
+
 ## What
 - Hijama is a form of wet cupping therapy where small incisions are made on the skin and suction cups are applied to draw out a small quantity of blood.
 - Also called Dry Cupping where no cuts are made .
@@ -15,7 +17,6 @@ People do this because :
 5. Not any side effects .
 6. body releases endorphins due to local small cut .
 
-![[Pasted image 20250502200421.jpg|300]]
 
 
 *Not much scientific evidences available* 
