@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CP.md",
+                "file": "Tech/Internet/Forward Proxy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CP"
+              "title": "Forward Proxy"
             }
           }
         ],
@@ -192,7 +192,11 @@
   },
   "active": "2cca05940326046d",
   "lastOpenFiles": [
+    "Tech/Internet/Reverse Proxy.md",
     "Tech/Internet/Authentication.md",
+    "Tech/Internet/JSON Web Token (JWT).md",
+    "Tech/Internet/Session Based Authentication.md",
+    "Tech/Internet/Forward Proxy.md",
     "CP.md",
     "Health/Practice/Oil pulling.md",
     "script.md",
@@ -213,15 +217,11 @@
     "Health/Food/Curd.md",
     "Tech/Internet/OAuth 1.0.md",
     "Tech/Internet/OAuth 2.0.md",
-    "Tech/Internet/JSON Web Token (JWT).md",
     "Tech/Internet/Access Token.md",
     "Tech/Programming Language/JavaScript/_JavaScript.md",
     "Tech/Programming Language/JavaScript",
     "Tech/Django/Setup.md",
     "Tech/Fast api/Caution.md",
-    "Tech/Sqlalchemy/Create.md",
-    "Tech/Programming Language/Python/_Python.md",
-    "Tech/Programming Language/Python/del.md",
     "Tech/Database",
     "_image/Pasted image 20250529130635.png",
     "_image/Pasted image 20250529130603.png",
