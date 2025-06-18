@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Code Snippets.md",
+                "file": "Tech/Programming Language/Python/Celery.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Code Snippets"
+              "title": "Celery"
             }
           }
         ],
@@ -205,11 +205,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a04d9f47ba304b51",
+  "active": "39b76b4d5a40c66e",
   "lastOpenFiles": [
-    "Natural Moc.md",
+    "System Design",
     "CP.md",
+    "Tech/Programming Language/Python/Celery.md",
     "Python Code Snippets.md",
+    "Natural Moc.md",
     "Tech/Internet/Session Based Authentication.md",
     "Tech/Internet/Reverse Proxy.md",
     "Tech/Internet/JSON Web Token (JWT).md",
@@ -234,8 +236,6 @@
     "Health/Food/Yogurt.md",
     "Health/Food/Bioavailability.md",
     "Health/Food/Curd.md",
-    "Tech/Internet/Access Token.md",
-    "Tech/Programming Language/JavaScript/_JavaScript.md",
     "Tech/Programming Language/JavaScript",
     "Tech/Database",
     "_image/Pasted image 20250529130635.png",

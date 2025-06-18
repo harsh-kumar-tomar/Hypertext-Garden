@@ -17,5 +17,5 @@ as implemention involves programming , but it is not much important if you just 
 many topics and problems in CP are mathematical , things in terms of that . Rather than typical ds.
 
 3. 80 >>>>>>>>>>>>20
-solving and understanding 80 percent problem is much important that solving the niece 20 percent prob. 
+solving and understanding 80 percent problem is much important that solving the ramaining  niche 20 percent prob. 
 
