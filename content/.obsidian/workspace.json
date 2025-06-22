@@ -4,71 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "30f3dc568e7a19b1",
+        "id": "f402c544d650d609",
         "type": "tabs",
         "children": [
           {
-            "id": "a2e92301a2b0c62d",
+            "id": "d596d85dfa1171e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OAuth 1.0.md",
+                "file": "Redis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OAuth 1.0"
-            }
-          },
-          {
-            "id": "a8366cc5b0e53b64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Internet/Authentication.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Authentication"
-            }
-          },
-          {
-            "id": "2cca05940326046d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CP.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CP"
-            }
-          },
-          {
-            "id": "a04d9f47ba304b51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Programming Language/Python/Celery.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Celery"
+              "title": "Redis"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,11 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39b76b4d5a40c66e",
+  "active": "d596d85dfa1171e0",
   "lastOpenFiles": [
-    "System Design",
+    "Redis.md",
+    "Tech/Internet/Authentication.md",
     "CP.md",
     "Tech/Programming Language/Python/Celery.md",
+    "System Design",
     "Python Code Snippets.md",
     "Natural Moc.md",
     "Tech/Internet/Session Based Authentication.md",
@@ -218,7 +174,6 @@
     "Tech/Internet/OAuth 2.0.md",
     "Tech/Internet/OAuth 1.0.md",
     "Tech/Internet/Forward Proxy.md",
-    "Tech/Internet/Authentication.md",
     "Health/Practice/Oil pulling.md",
     "script.md",
     "Tech/Internet",
@@ -251,7 +206,6 @@
     "image/Pasted image 20250518181047.png",
     "KOE097-BIG-DATA.pdf",
     "note.pdf",
-    "Tech/SQL",
-    "Areas/Tech/Kotlin"
+    "Tech/SQL"
   ]
 }
