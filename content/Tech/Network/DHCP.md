@@ -1,1 +1,0 @@
-it stands for Dynamic Host Configuration Protocol 

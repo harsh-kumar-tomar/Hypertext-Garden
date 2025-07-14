@@ -1,1 +1,0 @@
-Secured hash algorithm
